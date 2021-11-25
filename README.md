@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.seekpng.com/png/full/80-803529_vector-javascript-node-js-jpg-black-and-white.png" height="250" width="450">
+  <img src="https://www.seekpng.com/png/full/80-803529_vector-javascript-node-js-jpg-black-and-white.png" height="250" width="500">
 </p>
 
 # NLW Node
